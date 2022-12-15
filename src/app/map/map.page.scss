@@ -3,8 +3,8 @@ ion-content::part(scroll){
 }
 
 #map{
-    height: 100%;
-    width: 100%;
+    min-height: 100%;
+    min-width: 100%;
 }
 
 .nav-menu{
@@ -107,5 +107,5 @@ ion-content::part(scroll){
         justify-content: space-around;
         border-radius: 30px 30px 0 0;
         backdrop-filter: blur(4px);
-    }   
+    }
 }
