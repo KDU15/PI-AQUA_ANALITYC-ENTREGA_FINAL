@@ -58,7 +58,23 @@ const routes: Routes = [
   {
     path: 'novo-ponto',
     loadChildren: () => import('./novo-ponto/novo-ponto.module').then( m => m.NovoPontoPageModule)
+  },  {
+    path: 'modal-sair',
+    loadChildren: () => import('./modal-sair/modal-sair.module').then( m => m.ModalSairPageModule)
   },
+  {
+    path: 'modal-deletar-ponto',
+    loadChildren: () => import('./modal-deletar-ponto/modal-deletar-ponto.module').then( m => m.ModalDeletarPontoPageModule)
+  },
+  {
+    path: 'modal-add-manual',
+    loadChildren: () => import('./modal-add-manual/modal-add-manual.module').then( m => m.ModalAddManualPageModule)
+  },
+  {
+    path: 'modal-contato',
+    loadChildren: () => import('./modal-contato/modal-contato.module').then( m => m.ModalContatoPageModule)
+  },
+
 ];
 
 @NgModule({

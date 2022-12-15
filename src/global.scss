@@ -135,3 +135,13 @@ table {
     z-index: -1;
     border-radius: 10px 0 0 0;
 }
+
+
+.transparent-modal{
+    --background: rgba(0, 0, 0, 0.096);
+    backdrop-filter: blur(2px);
+
+    ion-content{
+        --background: transparent;
+    }
+}
