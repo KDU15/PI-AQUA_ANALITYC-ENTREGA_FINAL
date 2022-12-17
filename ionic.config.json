@@ -1,7 +1,0 @@
-{
-  "name": "aqua-analitycs",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
