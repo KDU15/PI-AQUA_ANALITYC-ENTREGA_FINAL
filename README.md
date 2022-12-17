@@ -27,7 +27,7 @@ Acesse a pasta no Drive e faça o download do apk:
 ## 📚 Documentação
 
 Pasta no Drive com todas as documentações
-* [Pasta de documentações](https://drive.google.com/drive/folders/1KcZMAwcVrLAjT_p5U8wHwvKLyodJMZjV)
+* [Pasta de documentações](https://drive.google.com/drive/folders/1bJDFK0bhfkkxy0kluoFGEwJOTr1DsXGz?usp=sharing)
 
 
 ## 🤝 Colaboradores
